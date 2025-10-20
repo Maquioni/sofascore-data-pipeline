@@ -42,6 +42,7 @@ Autor
 Gustavo Maquioni Fernandes Pinto
 São José dos Campos/SP
 E-mail: makionipa@gmail.com
+Certificação: Microsoft Certified – Azure Fundamentals (AZ-900)
 
 --------------------------------------------------------
 

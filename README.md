@@ -46,5 +46,13 @@ Certificação: Microsoft Certified – Azure Fundamentals (AZ-900)
 
 --------------------------------------------------------
 
+Certificações e Cursos
+- Bootcamp Microsoft AI for Tech – Azure Databricks  
+  Capacitação em Inteligência Artificial e Engenharia de Dados no Azure, com foco em Databricks, Data Lake e Spark.
+- Microsoft Certified: Azure Fundamentals (AZ-900)  
+  Certificação oficial da Microsoft sobre fundamentos de computação em nuvem, segurança e serviços principais do Azure.
+  
+--------------------------------------------------------
+
 Licença
 Projeto de uso pessoal e educacional.
